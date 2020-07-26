@@ -1,8 +1,11 @@
 # Chat Messenger App
-Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
-Used slimauth module for Authentication
-Used node-cache module to cache logged in users
-used webrtc javascript library for video/audio calling
+Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI.
+
+Used slimauth module for Authentication.
+
+Used node-cache module to cache logged in users.
+
+used webrtc javascript library for video/audio calling.
 
 npm install
 npm install nodemon
