@@ -7,8 +7,13 @@ Used node-cache module to cache logged in users.
 
 used webrtc javascript library for video/audio calling.
 
+
+Installion Steps
+----------------
 npm install
+
 npm install nodemon
+
 nodemon server.js
 
 Go to localhost:3000
